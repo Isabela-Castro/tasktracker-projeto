@@ -12,3 +12,13 @@ Aplicação em linha de comando (CLI) desenvolvida em Python para organização 
 2. Clone este repositório:
    ```bash
    git clone [https://github.com/SEU_USUARIO/tasktracker-projeto.git](https://github.com/SEU_USUARIO/tasktracker-projeto.git)
+
+# TaskTracker - Aplicação CLI Conteinerizada
+
+Aplicação de gerenciamento de tarefas desenvolvida em Python e conteinerizada com Docker.
+
+## Como Executar o Projeto
+
+### 1. Construir a Imagem Docker
+```bash
+docker build -t tasktracker:latest .
