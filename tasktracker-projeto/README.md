@@ -2,13 +2,13 @@
 
 Aplicação em linha de comando (CLI) desenvolvida em Python para organização e gestão de tarefas diárias. Projeto desenvolvido como parte do **Bootcamp II**.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **Python 3**
 - **Git & GitHub**
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
-1. Certifica-te de que tens o Python instalado na tua máquina.
-2. Clona este repositório:
+1. Certifique-se de que o Python está instalado no seu computador(notebook, etc).
+2. Clone este repositório:
    ```bash
    git clone [https://github.com/SEU_USUARIO/tasktracker-projeto.git](https://github.com/SEU_USUARIO/tasktracker-projeto.git)
