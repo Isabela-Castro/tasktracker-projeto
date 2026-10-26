@@ -1,6 +1,6 @@
 # TaskTracker - Sistema de Gestão de Tarefas
 
-Aplicação em linha de comando (CLI) desenvolvida em Python para organização e gestão de tarefas diárias. Projeto desenvolvido como parte do **Bootcamp II**.
+Aplicação em linha de comando (CLI) desenvolvida em Python para organização e gestão de tarefas diárias. Projeto desenvolvido como parte da matéria **Bootcamp II**.
 
 ## Tecnologias Utilizadas
 - **Python 3**
